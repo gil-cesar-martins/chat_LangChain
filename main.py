@@ -24,7 +24,11 @@ def init():
         page_icon="🤖"
     )
 
-    imagem = st.image('./img/segurencio.png')
+    #imagem = st.image('./img/segurencio.png')
+    video_file = open('./video/cipaa_exclusivo.mp4', 'rb')
+    video_bytes = video_file.read()
+
+    st.video(video_bytes)
 
 def main():
     init()
