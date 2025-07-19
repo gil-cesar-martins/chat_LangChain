@@ -1,7 +1,4 @@
-# 🤖 Chat DESA - Assistente Virtual de Segurança e Meio Ambiente
-
-![Chat DESA Screenshot](https://raw.githubusercontent.com/gil-cesar-martins/Bible_App/main/img/Screenshot_4.png?token=GHSAT0AAAAAACQ4S77X6Q6I753E4522WUTYZQ6N6HA) 
-> **Nota:** Substitua o link da imagem acima por um screenshot ou GIF do seu projeto em execução. Você pode usar ferramentas como [LICEcap](https://www.cockos.com/licecap/) ou [ScreenToGif](https://www.screentogif.com/) para criar GIFs animados.
+# 🤖 Chat com LangChain - Assistente Virtual de Segurança e Meio Ambiente
 
 Um chatbot interativo e inteligente construído com Streamlit e LangChain, projetado para ser um assistente virtual especialista em tópicos de Segurança do Trabalho e Meio Ambiente. A aplicação utiliza o poder dos modelos de linguagem da OpenAI para fornecer respostas informativas e contextuais em tempo real.
 
