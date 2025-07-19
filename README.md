@@ -39,17 +39,12 @@ Siga os passos abaixo para executar o projeto localmente.
 
 ### Passos
 
-1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/gil-cesar-martins/chat_LangChain.git](https://github.com/gil-cesar-martins/chat_LangChain.git)
-    ```
-
-2.  **Entre na pasta do projeto:**
+1.  **Entre na pasta do projeto:**
     ```bash
     cd chat_LangChain
     ```
 
-3.  **Crie e ative um ambiente virtual:**
+2.  **Crie e ative um ambiente virtual:**
     * No Windows:
         ```bash
         python -m venv venv
